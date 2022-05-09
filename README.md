@@ -18,22 +18,22 @@ Team53
 
 ## Ürün Açıklaması
 
-- N/A
+- Bölümlerin içerisine gizlenmiş saatleri toplayıp, bu saatleri kullanarak gerekli yerlerde zamanı yöneterek ve bölümleri geçebileceğniz bir 3D puzzle platform oyunu.
 
 ## Ürün Özellikleri
 
-- 
-- 
-- 
+- Farklı mekaniklere sahip karakterlerle oyna
+- Farklı haritalarda oyna
+- Zamanı yönet
 - 
 
 ## Hedef Kitle
 
+- Puzzle Platform oyunlarını sevenler.
+- 7 yaş ve üzeri kullanıcılar.
 - 
 - 
-- 
-- 
-- 
+
 
 ## Product Backlog URL
 
