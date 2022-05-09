@@ -40,7 +40,7 @@ Team53
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: 1. Sprint aşaması genel olarak planlamayla geçti, birtakım aksaklıklar nedeniyle bir karara biraz geç varabildik.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 
 
