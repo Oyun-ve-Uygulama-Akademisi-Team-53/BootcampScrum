@@ -24,15 +24,12 @@ Team53
 
 - Farklı mekaniklere sahip karakterlerle oyna
 - Farklı haritalarda oyna
-- Zamanı yönet
-- 
+- Zamanı yönet 
 
 ## Hedef Kitle
 
 - Puzzle Platform oyunlarını sevenler.
-- 7 yaş ve üzeri kullanıcılar.
-- 
-- 
+- 7 yaş ve üzeri kullanıcılar. 
 
 
 ## Product Backlog URL
