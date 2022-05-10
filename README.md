@@ -60,8 +60,8 @@ Team53
 - **Sprint Review**: 
 
 
-- **Sprint Retrospective:**
- - Oyun içi obje ve karaker modellemelerine ayrılan vakit arttırılmalı.
+- **Sprint Retrospective:** Oyun içi obje ve karaker modellemelerine ayrılan vakit arttırılmalı.
+
 
 -**Diğer Notlar**:
 - N/A
