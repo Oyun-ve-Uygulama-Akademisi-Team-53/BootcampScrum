@@ -57,7 +57,7 @@ Team53
 - **Ürün Durumu**: Ekran görüntüleri:
  
 
-- **Sprint Review**: 
+- **Sprint Review**: Projeye geç karar verildiğinden modellemelere henüz başlanılabilmiştir. Developerların görevi sonraki sprinte aktarılmıştır.
 
 
 - **Sprint Retrospective:** Oyun içi obje ve karaker modellemelerine ayrılan vakit arttırılmalı.
