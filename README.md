@@ -70,6 +70,31 @@ Team53
 
 # Sprint 2
 
+- **Sprint Notları**:
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+- **Puan tamamlama mantığı**:
+
+- **Backlog düzeni ve Story seçimleri**:
+
+
+
+- **Daily Scrum**:
+- **Sprint board update**: Sprint board screenshotları:
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+- **Sprint Review**:
+
+
+- **Sprint Retrospective:**
+
+
+-**Diğer Notlar**:
+- N/A
 
 ---
 
