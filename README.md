@@ -42,9 +42,9 @@ Team53
 
 - **Sprint Notları**: 1. Sprint aşaması genel olarak planlamayla geçti, birtakım aksaklıklar nedeniyle bir karara biraz geç varabildik.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 15 Puan
 
-- **Puan tamamlama mantığı**: 
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. Bir nevi planlama aşaması olarak geçirdiğimiz 1. sprint'e 15 puan yeterli göründü.
 
 - **Backlog düzeni ve Story seçimleri**: 
 
@@ -72,9 +72,9 @@ Team53
 
 - **Sprint Notları**:
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 25 Puan
 
-- **Puan tamamlama mantığı**:
+- **Puan tamamlama mantığı**: Genel olarak planlamayla geçen 1. Sprint'ten sonra, ortaya somut bir şeyler henüz çıktığı için 2. sprint'e 25 puan yeteli görülmüştür.
 
 - **Backlog düzeni ve Story seçimleri**:
 
