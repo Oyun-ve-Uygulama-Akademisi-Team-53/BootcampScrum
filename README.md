@@ -84,7 +84,9 @@ Team53
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri: ![Backlog](https://user-images.githubusercontent.com/104423526/169904718-05bd8de3-45a2-4cb4-9cc7-3beca68ae470.jpg)
+- **Ürün Durumu**: Ekran görüntüleri: ![To-Do](https://user-images.githubusercontent.com/104423526/169904969-40645718-eea8-4535-a789-9a43b67248be.jpg) ![Doing](https://user-images.githubusercontent.com/104423526/169905051-20b81c87-c480-4923-be27-7347ff4cae59.jpg) ![Done](https://user-images.githubusercontent.com/104423526/169905075-04388c0e-b8a7-423b-a18a-13ed810be971.jpg) ![Backlog](https://user-images.githubusercontent.com/104423526/169905092-5ef786fb-078c-4d44-aa83-56f8157c323f.jpg)
+
+
 
 
 
