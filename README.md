@@ -84,7 +84,8 @@ Team53
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri: ![Backlog](https://user-images.githubusercontent.com/104423526/169904718-05bd8de3-45a2-4cb4-9cc7-3beca68ae470.jpg)
+
 
 
 - **Sprint Review**: Alınan kararlar: Modellemelerde istenilen seviyeye henüz ulaşılamadığı için basit kodlamalar modellemelerden bağımsız olarak yazılmaya başlanacaktır. Modellemelere ayrılması gereken vakit bir sonraki sprint planlamalarına göre daha da arttırılmıştır.
