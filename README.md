@@ -81,7 +81,9 @@ Team53
 
 
 - **Daily Scrum**: Daily Scrum toplantıları, toplantıların daha verimli geçmesi için Discord üzerinden sesli olarak yapılmaktadır. Toplantıda olmadığımız vakitler veya bir kaynak paylaşımı haricinde yazıyla iletişim pek kullanılmamaktadır.
-- **Sprint board update**: Sprint board screenshotları: ![To-Do](https://user-images.githubusercontent.com/104423526/169905267-cc05706f-7984-4a41-a2b0-2796a1bef811.jpg)
+- **Sprint board update**: Sprint board screenshotları: 
+- 
+- ![To-Do](https://user-images.githubusercontent.com/104423526/169905267-cc05706f-7984-4a41-a2b0-2796a1bef811.jpg)
 ![Doing](https://user-images.githubusercontent.com/104423526/169905295-b5d77642-27f0-4ab3-810a-bef3e154d6b6.jpg)
 ![Done](https://user-images.githubusercontent.com/104423526/169905308-d45bac4e-a045-4233-8e61-c74a8b6b951c.jpg)
 ![Backlog](https://user-images.githubusercontent.com/104423526/169905323-fa552079-796c-493a-b041-de2d4c008238.jpg)
