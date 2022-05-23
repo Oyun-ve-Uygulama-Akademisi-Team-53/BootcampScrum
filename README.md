@@ -81,10 +81,14 @@ Team53
 
 
 - **Daily Scrum**: Daily Scrum toplantıları, toplantıların daha verimli geçmesi için Discord üzerinden sesli olarak yapılmaktadır. Toplantıda olmadığımız vakitler veya bir kaynak paylaşımı haricinde yazıyla iletişim pek kullanılmamaktadır.
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları: ![To-Do](https://user-images.githubusercontent.com/104423526/169905267-cc05706f-7984-4a41-a2b0-2796a1bef811.jpg)
+![Doing](https://user-images.githubusercontent.com/104423526/169905295-b5d77642-27f0-4ab3-810a-bef3e154d6b6.jpg)
+![Done](https://user-images.githubusercontent.com/104423526/169905308-d45bac4e-a045-4233-8e61-c74a8b6b951c.jpg)
+![Backlog](https://user-images.githubusercontent.com/104423526/169905323-fa552079-796c-493a-b041-de2d4c008238.jpg)
 
 
-- **Ürün Durumu**: Ekran görüntüleri: ![To-Do](https://user-images.githubusercontent.com/104423526/169904969-40645718-eea8-4535-a789-9a43b67248be.jpg) ![Doing](https://user-images.githubusercontent.com/104423526/169905051-20b81c87-c480-4923-be27-7347ff4cae59.jpg) ![Done](https://user-images.githubusercontent.com/104423526/169905075-04388c0e-b8a7-423b-a18a-13ed810be971.jpg) ![Backlog](https://user-images.githubusercontent.com/104423526/169905092-5ef786fb-078c-4d44-aa83-56f8157c323f.jpg)
+
+- **Ürün Durumu**: Ekran görüntüleri: 
 
 
 
