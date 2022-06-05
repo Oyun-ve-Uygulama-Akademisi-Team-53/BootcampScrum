@@ -109,4 +109,28 @@ Team53
 
 # Sprint 3
 
+- **Sprint Notları**: Yapılması planlanan işler "To-Do" bölümüne, yapımı devam eden işler "Doing" bölümüne, biten işler "Done" bölümüne ve bu yapımı iptal edilen işler ise "Backlog" bölümünde yer almaktadır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
+
+- **Puan tamamlama mantığı**: Toplamda 100 Puanlık bir Backlog sistemimiz bulunmaktadır. 1. Sprint'e 15, 2. Sprint'e ise 25 Puan verildi. 3. Sprint için geriye kalan puan 60.
+
+- **Backlog düzeni ve Story seçimleri**: Üründe istediğimiz aşamaya ulaşamadığımız için bazı işlerden vazgeçme kararı aldık ve buna göre düzenlemeler yaptık.
+
+
+
+- **Daily Scrum**: Daily Scrum toplantıları, toplantıların daha verimli geçmesi için Discord üzerinden sesli olarak yapılmaktadır. Toplantıda olmadığımız vakitler veya bir kaynak paylaşımı haricinde yazıyla iletişim pek kullanılmamaktadır.
+
+
+
+
+
+
+
+
+
+
+
 ---
+
+
