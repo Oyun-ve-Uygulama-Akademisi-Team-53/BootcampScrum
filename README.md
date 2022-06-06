@@ -126,8 +126,8 @@ Team53
 
 
 
-- **Ürün Durumu**: Ekran görüntüleri: 
-
+- **Ürün Durumu**: Oyunumuzun linki: https://drive.google.com/drive/folders/1HCy_bLAAwG4ffkMa2Z3UDZvjUpQCE_VK?usp=sharing
+- Ekran Görüntüleri:  
 
 
 
@@ -137,7 +137,7 @@ Team53
 - **Sprint Retrospective:** Süre yönetimi daha dikkatli yapılmalı, modellemelerde daha sade çalışılmalı.
 
 
--**Diğer Notlar**:
-- N/A
+-**Diğer Notlar**: Oyunumuz, oyuncunun oynayışını aksatmaması için coyote time ve jump buffering'e dikkat edilerek hazırlanmıştır. 
+-
 
 
