@@ -109,7 +109,7 @@ Team53
 
 # Sprint 3
 
-- **Sprint Notları**: Yapılması planlanan işler "To-Do" bölümüne, yapımı devam eden işler "Doing" bölümüne, biten işler "Done" bölümüne ve bu yapımı iptal edilen işler ise "Backlog" bölümünde yer almaktadır.
+- **Sprint Notları**: Yapılması planlanan işler "To-Do" bölümüne, yapımı devam eden işler "Doing" bölümüne, biten işler "Done" bölümüne ve bu yapımı iptal edilen işler ise "Backlog" bölümünde yer almaktadır. Projede Blender'da modellediğimiz assetler ve Unity'de bulunan ücretsiz hazır assetler kullanılmıştır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
 
