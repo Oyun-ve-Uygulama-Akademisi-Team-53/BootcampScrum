@@ -14,7 +14,7 @@ Team53
 
 ## Ürün İsmi
 
--- N/A --
+-- Area 53 --
 
 ## Ürün Açıklaması
 
@@ -127,7 +127,20 @@ Team53
 
 
 - **Ürün Durumu**: Oyunumuzun linki: https://drive.google.com/drive/folders/1HCy_bLAAwG4ffkMa2Z3UDZvjUpQCE_VK?usp=sharing
-- Ekran Görüntüleri:  
+- Ekran Görüntüleri:  ![a](https://user-images.githubusercontent.com/104423526/172260345-32b8d024-21ae-4695-ae39-9682a62ca54a.jpeg)
+![b](https://user-images.githubusercontent.com/104423526/172260404-2b98f56e-9dc6-4657-9d07-6b02065939ef.jpeg)
+![c](https://user-images.githubusercontent.com/104423526/172260419-3614e041-d5e2-4146-9f08-305a57148fdc.jpeg)
+![d](https://user-images.githubusercontent.com/104423526/172260438-2016cc66-776e-4620-a9dc-cd8d0decc63f.jpeg)
+![e](https://user-images.githubusercontent.com/104423526/172260457-5dfa2032-6db4-43af-9a5b-36492790f149.jpeg)
+![f](https://user-images.githubusercontent.com/104423526/172260482-1143928a-e811-4074-bbc9-68a70511da40.jpeg)
+![g](https://user-images.githubusercontent.com/104423526/172260507-61cb1937-6af5-4a45-9efe-8a908889e598.jpeg)
+![h](https://user-images.githubusercontent.com/104423526/172260533-0d09d13d-ea53-4215-98ea-f00e75d345dd.jpeg)
+![i](https://user-images.githubusercontent.com/104423526/172260548-e32d6b89-9812-4194-96ea-2fa0347d1a10.jpeg)
+![j](https://user-images.githubusercontent.com/104423526/172260568-b588f718-f11e-4425-99cf-33dc6c6ea451.jpeg)
+![k](https://user-images.githubusercontent.com/104423526/172260593-7ce41fa1-3695-411a-ae70-30f74c9c68d2.jpeg)
+![l](https://user-images.githubusercontent.com/104423526/172260634-51c58b4a-6d9c-4527-8c67-a2726f79112a.jpeg)
+![m](https://user-images.githubusercontent.com/104423526/172260651-70a95a12-82c3-4977-83d3-c7603c188673.jpeg)
+
 
 
 
