@@ -119,18 +119,25 @@ Team53
 
 
 
-- **Daily Scrum**: Daily Scrum toplantıları, toplantıların daha verimli geçmesi için Discord üzerinden sesli olarak yapılmaktadır. Toplantıda olmadığımız vakitler veya bir kaynak paylaşımı haricinde yazıyla iletişim pek kullanılmamaktadır.
+- **Daily Scrum**: Daily Scrum toplantıları, toplantıların daha verimli geçmesi için Discord üzerinden sesli olarak yapılmaktadır. Toplantıda olmadığımız vakitler veya bir kaynak paylaşımı haricinde yazıyla iletişim pek kullanılmamaktadır. Daily Srcum Screenshotları: ![1](https://user-images.githubusercontent.com/104423526/172240795-d4b92171-8169-4317-bc62-be183152bca8.jpeg) ![2](https://user-images.githubusercontent.com/104423526/172240851-1a5904f4-ee30-4b70-8619-ebaccf28a757.jpeg) ![3](https://user-images.githubusercontent.com/104423526/172240896-6cb82bbd-bea5-4b7f-b6ca-bdcf4ec4f5ab.jpeg) ![4](https://user-images.githubusercontent.com/104423526/172240934-c7f3bd1b-a709-4e44-9c50-555bc06faafb.jpeg) ![5](https://user-images.githubusercontent.com/104423526/172240997-f81de918-97cf-4b40-ab71-314ece7a68d4.jpeg) ![6](https://user-images.githubusercontent.com/104423526/172241053-351f2d13-9977-4bf7-a955-f40bdc33374f.jpeg) ![7](https://user-images.githubusercontent.com/104423526/172241109-97e69eea-d2b7-42db-8202-9fb35639cb60.jpeg) ![8](https://user-images.githubusercontent.com/104423526/172241186-0e43f43a-a13c-4030-8c1b-c1e909ea2793.jpeg) ![9](https://user-images.githubusercontent.com/104423526/172241239-51f30b36-c6d1-4031-9aa8-96b60c1fe148.jpeg) ![10](https://user-images.githubusercontent.com/104423526/172241297-05af9007-d2de-437d-a840-87d9348b753b.jpeg)
+
+- **Sprint board update**: Trello'da bulunan Sprint board'a linkten ulaşabilirsiniz. [
+](https://trello.com/b/JawdqGAJ/team-53-kanban)
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri: 
 
 
 
 
 
+- **Sprint Review**: Üründe istediğimiz aşamaya ulaşamadık. Atıığımız adımların birçoğundan geri döndük. Ortaya çıkan iş hayalimizdeki gibi olmadı.
+
+- **Sprint Retrospective:** Süre yönetimi daha dikkatli yapılmalı, modellemelerde daha sade çalışılmalı.
 
 
-
-
-
-
----
+-**Diğer Notlar**:
+- N/A
 
 
