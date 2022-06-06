@@ -126,8 +126,8 @@ Team53
 
 
 
-- **Ürün Durumu**: Oyunumuzun linki: https://drive.google.com/drive/folders/1HCy_bLAAwG4ffkMa2Z3UDZvjUpQCE_VK?usp=sharing
-- Ekran Görüntüleri:  ![a](https://user-images.githubusercontent.com/104423526/172260345-32b8d024-21ae-4695-ae39-9682a62ca54a.jpeg)
+- **Ürün Durumu**: Oyunumuza ulaşabileceğiniz linkler: https://drive.google.com/drive/folders/1HCy_bLAAwG4ffkMa2Z3UDZvjUpQCE_VK?usp=sharing [
+](https://play.unity.com/mg/other/webgl-builds-206228)- Ekran Görüntüleri:  ![a](https://user-images.githubusercontent.com/104423526/172260345-32b8d024-21ae-4695-ae39-9682a62ca54a.jpeg)
 ![b](https://user-images.githubusercontent.com/104423526/172260404-2b98f56e-9dc6-4657-9d07-6b02065939ef.jpeg)
 ![c](https://user-images.githubusercontent.com/104423526/172260419-3614e041-d5e2-4146-9f08-305a57148fdc.jpeg)
 ![d](https://user-images.githubusercontent.com/104423526/172260438-2016cc66-776e-4620-a9dc-cd8d0decc63f.jpeg)
